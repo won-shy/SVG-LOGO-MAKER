@@ -17,9 +17,9 @@ Link to [walkthrough video](<https://drive.google.com/file/d/1ljcuPZKckG_y6R7wGY
 
 Screenshots:
 
-![Inquirer function example](/examples/images/Inquirer-code-example.png)
-![Generated logo code](/examples/images/generated-logo-code.png)
-![Generated logo example](/examples/images/MVP-Logo-Example.png)
+![Inquirer function example](/images/Inquirer-code-example.png)
+![Generated logo code](/images/generated-logo-code.png)
+![Generated logo example](/images/MVP-Logo-Example.png)
 
 ## Authors and Acknowledgements
 
