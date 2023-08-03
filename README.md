@@ -13,13 +13,13 @@ git clone <git@github.com>:won-shy/SVG-Logo-Maker.git
 
 ## Usage
 
-Link to [walkthrough video] () that demonstrates functionality of the SVG logo maker.
+Link to [walkthrough video](<https://drive.google.com/file/d/1ljcuPZKckG_y6R7wGYxpSj45wN6ZUQPb/view>) that demonstrates functionality of the SVG logo maker.
 
 Screenshots:
 
 ![Inquirer function example](/examples/images/Inquirer-code-example.png)
 ![Generated logo code](/examples/images/generated-logo-code.png)
-![Generated logo example](/examples/images/SRL-Logo-Example.png)
+![Generated logo example](/examples/images/MVP-Logo-Example.png)
 
 ## Authors and Acknowledgements
 
